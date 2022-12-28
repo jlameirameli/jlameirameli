@@ -1,9 +1,9 @@
 <h2 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm <a href="https://www.linkedin.com/in/jonathanlameira/">Jonathan Lameira</a></h2>
-<p align="center">
+
 [![Twitter Badge](https://img.shields.io/badge/-@jlameira-FFFF00?style=flat-square&labelColor=3333cc&logo=twitter&logoColor=white&link=https://twitter.com/jlameira)](https://twitter.com/jlameira) 
+  
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Lameira-FFFF00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanlameira/)](https://www.linkedin.com/in/jonathanlameira/)
 
-</p>
 
 ### About Me 🚀
 - ⚡  I’m a full stack developer that loves everything about coding</br>
