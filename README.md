@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm <a href="https://www.linkedin.com/in/jonathanlameira/">Jonathan Lameira</a></h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathanlameira/">LinkedIn</a> •
+  <a href="https://twitter.com/jlameira">Twitter</a> •
+  <a href="mailto:jlameira@gmail.com">Email</a>
+</p>
 
-<!--
-**jlameirameli/jlameirameli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 🚀
+- 🌱  I’m a brazilian Fullstack developer</br>
+- 👨‍💻  I am passionate about Development</br>
 
-Here are some ideas to get you started:
+<!-- ![Jonathan Lameira github stats](https://github-readme-stats.vercel.app/api?username=jlameirameli&show_icons=true&hide_border=true)&nbsp;&nbsp; -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 This week I spent my time working on
+<!--START_SECTION:waka-->
+
+```text
+TypeScript                   ██████████████████████░░░   87.89 %
+JavaScript                   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+JSON                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+```
+
+<!--END_SECTION:waka-->
+
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jlameirameli.jlameirameli)
